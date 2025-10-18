@@ -16,9 +16,6 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=Python&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-          </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
